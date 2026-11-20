@@ -28,6 +28,12 @@ buildFuture = false
   weight = 10
 
   [[menu.main]]
+  identifier = "publications"
+  name = "Publications"
+  url = "/publications/"
+  weight = 15
+
+  [[menu.main]]
   identifier = "categories"
   name = "Categories"
   url = "/categories/"
