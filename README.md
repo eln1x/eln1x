@@ -1,4 +1,4 @@
-# unixawy.com — Personal Security & Engineering Blog
+Personal Security & Engineering Blog
 
 Hi, I'm Ahmad Mahfouz (`_N1X_`). I'm an **Application Security Manager at ServiceNow** with over 10 years of experience in application security, offensive operations, and protecting critical infrastructure.
 
