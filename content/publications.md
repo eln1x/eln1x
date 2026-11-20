@@ -14,17 +14,17 @@ A curated index of my external security publications, public exploits, conferenc
 
 - **Nov 2026**: **[Node.js Core Dump & V8 Memory Forensics Toolkit](https://github.com/eln1x/node-memory-forensics-toolkit)**. Python toolkit for extracting JavaScript source, runtime state, network indicators, and V8 managed structures from Linux ELF64 core dumps of Node.js processes.
 - **Apr 2019**: **[OAMBuster](https://github.com/redtimmy/OAMBuster)**. Multithreaded padding oracle tool for Oracle Access Manager (`CVE-2018-2879`), published under Red Timmy Security.
-- **Mar 2019**: **[Shredpaper](https://github.com/redtimmy/shredpaper/blob/master/shredpaper.py)**. Exploit script for FlexPaper/FlowPaper RCE (`CVE-2018-11686`), published under Red Timmy Security.
-- **October 2017**: **[Voster](https://github.com/eln1x/Voster/blob/master/README.md)**. Virtual host scanner.
 - **Apr 2019**: **[Empire PowerShell Stager](https://github.com/eln1x/Empire/blob/599855fe283a344492e98ac36c6f4d98d73fba14/lib/stagers/windows/empire)**. Groovy PowerShell stager implementation.
+- **Mar 2019**: **[Shredpaper](https://github.com/redtimmy/shredpaper/blob/master/shredpaper.py)**. Exploit script for FlexPaper/FlowPaper RCE (`CVE-2018-11686`), published under Red Timmy Security.
+- **Oct 2017**: **[Voster](https://github.com/eln1x/Voster/blob/master/README.md)**. Virtual host scanner.
 - **Jul 2017**: **[Needle iOS Security Testing Framework](https://github.com/mwrlabs/needle/blob/master/CHANGELOG.md)**. Contribution credited in the MWR Labs Needle changelog.
 
 ## Talks, Presentations & Training
 
 - **Aug 2019**: **[Advanced Java Web and Client-Server Application Hacking (with a bit of Crypto)](https://www.blackhat.com/us-19/training/schedule/#advanced-java-web-and-client-server-application-hacking-with-a-bit-of-crypto-14193)**. Black Hat USA 2019 training.
-- **Apr 2018**: **[CVE-2018-11686 Case Study](https://docs.google.com/presentation/d/1IVkUriQfrBF2aGl6SUuJUofqE1nF5oUXSTq8kHnhWQQ/)**. Presentation slides.
 - **Jul 2019**: **[Exploitation and Exfiltration Tactics](https://docs.google.com/presentation/d/1lio7RaW1fDtPFMyJqxq87RJH3AvM6xw9hmy1kAAPgeU/)**. Presentation slides.
 - **Jul 2019**: **[Abusing Web Master](https://docs.google.com/presentation/d/1ELO1eGrCc7fsKRloo7H_iuOQV73xshXX8D-UZUe4Ry4/)**. Presentation slides.
+- **25 Apr 2018**: **[CVE-2018-11686 Case Study](https://docs.google.com/presentation/d/1IVkUriQfrBF2aGl6SUuJUofqE1nF5oUXSTq8kHnhWQQ/)**. Presentation slides.
 - **Aug 2017**: **[PBX Under Attack: VoIP Information Security Overview](https://prezi.com/wknnwnizlcfv/pbx-under-attack/)**. Prezi presentation.
 
 ## Papers & Vulnerability Disclosures
