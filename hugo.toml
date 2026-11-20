@@ -91,6 +91,7 @@ buildFuture = false
     imageHeight = 140
     buttons = [
       { name = "Read Articles", url = "/posts/" },
+      { name = "Publications", url = "/publications/" },
       { name = "About Me", url = "/about/" }
     ]
 
