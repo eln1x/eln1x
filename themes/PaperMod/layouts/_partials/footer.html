@@ -12,6 +12,15 @@
         {{- if not site.Params.footer.hideCopyright }}{{ print " · " }}{{ end }}
         {{ . | markdownify }}
     {{- end }}
+
+    {{- if site.Menus.main }}
+    <nav class="footer-menu" aria-label="Footer">
+        {{- range $index, $item := site.Menus.main }}
+            {{- if $index }}<span aria-hidden="true"> · </span>{{ end }}
+            <a href="{{ $item.URL | absLangURL }}">{{ $item.Name }}</a>
+        {{- end }}
+    </nav>
+    {{- end }}
 </footer>
 {{- end }}
 
