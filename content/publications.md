@@ -30,7 +30,7 @@ A curated index of my external security publications, public exploits, conferenc
 ## Papers & Vulnerability Disclosures
 
 - **Sep 2019**: **[Jenkins Groovy for Red Team Operators](https://www.exploit-db.com/download/47374)** (`EDB-ID: 47374`). Published paper on Exploit-DB covering offensive Jenkins Groovy techniques.
-- **2018**: **[FlowPaper 3.2.1 Vulnerability Disclosure](https://flowpaper.com/blog/flowpaper-3-2-1-release-notes/)**. Security credit in the FlowPaper 3.2.1 release notes.
+- **Jul 2018**: **[FlowPaper 3.2.1 Vulnerability Disclosure](https://flowpaper.com/blog/flowpaper-3-2-1-release-notes/)**. Security credit in the FlowPaper 3.2.1 release notes.
 
 ## Public Exploits (Exploit-DB)
 
