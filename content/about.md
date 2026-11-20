@@ -6,11 +6,11 @@ draft: false
 description: "Application Security Manager at ServiceNow with 10+ years of experience across application security, offensive operations, and critical infrastructure."
 ---
 
-Hi, I'm Ahmad Mahfouz (`_N1X_`). I currently serve as an **Application Security Manager at ServiceNow**, bringing over a decade of hands-on and strategic experience protecting enterprise cloud platforms (ServiceNow) and critical global financial infrastructure (S.W.I.F.T.).
+Hi, I'm Ahmad Mahfouz (`_N1X_`). I'm an **Application Security Manager at ServiceNow** with over 10 years of experience in application security, offensive operations, and protecting critical infrastructure.
 
-**unixawy.com** is my personal blog and digital notebook—a space where I share my thoughts, technical experiments, vulnerability research, and practical engineering solutions. Here you will find writeups ranging from Linux internals and memory exploitation to modern AppSec architecture, cloud security, and agentic AI systems.
+**unixawy.com** is my personal blog and technical notebook, where I share security research, Linux and exploitation notes, cloud security lessons, and practical engineering experiments.
 
-I bridge deep offensive technical tradecraft (GXPN, OSCE, CRTE, CRTO) with high-level security leadership and governance (GSTRT, GSLC), helping engineering and security teams build resilient software at scale.
+I combine hands-on offensive security experience (GXPN, OSCE, CRTE, CRTO) with security leadership (GSTRT, GSLC), helping engineering and security teams build resilient systems at scale.
 
 **Core Focus Areas & Competencies**
 
