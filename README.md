@@ -1,4 +1,4 @@
-Hi, I'm Ahmad Mahfouz (`_N1X_`). I'm an **Application Security Manager at ServiceNow** with over 10 years of experience in application security, offensive operations, and protecting critical infrastructure.
+Hi, I'm Ahmad Mahfouz (`_N1X_`) with over 10 years of experience in application security, offensive operations, and protecting critical infrastructure.
 
 **unixawy.com** is my personal blog and technical notebook, where I share security research, Linux and exploitation notes, cloud security lessons, and practical engineering experiments.
 
